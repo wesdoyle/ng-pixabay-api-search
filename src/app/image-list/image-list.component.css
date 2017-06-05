@@ -1,0 +1,35 @@
+#search-container{
+    margin-top:20%;
+}
+
+.search{
+  height: 70px;
+  max-height: 70px;
+  font-size: 3.5em;
+  color: #;
+}
+
+.avatar{
+  margin-bottom: 7px;
+}
+
+.searchButton{
+  background-color: #CA1740;
+  color: #fff;
+  margin-top:20px;
+}
+
+.image-container{
+  width: 300px;
+  min-height: 100px;
+  max-width: 300px;
+  margin: 8px;
+  border-radius: 2px;
+  box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.14);
+  overflow: hidden;
+}
+
+.results{
+  padding: 8px;
+  margin-bottom: 12px;
+}
