@@ -4,6 +4,8 @@
 
 A simple image search application that implements Pixabay's public API.  Users search for images matching a keyword and the application returns a gallery of those images that link back to Pixabay.  All images in the application are provided by Pixabay. The application implements Angular 4's Http class, Angular Material, and Masonry.js.
 
+I created a video tutorial to build this project, which you can follow here, if you like: [https://www.youtube.com/watch?v=umiW-pfbB5c](https://www.youtube.com/watch?v=umiW-pfbB5c)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
 
 ## Pixabay API
